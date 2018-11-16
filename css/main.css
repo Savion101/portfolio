@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #contactHeader {
-  background-image: url("../img/arcade.jpg");
+  background-image: url("../");
 }
 
 /*HERO SECTION*/
@@ -125,10 +125,10 @@ h1, h2, h3, h4, h5, h6 {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 50vh;
+  height: 50vh
   width: 100%;
   height: 100vh;
-  background-image: url("../img/hero.jpg");
+  background-image: url("https://pro2-bar-s3-cdn-cf4.myportfolio.com/4e6255b951c8b2218d0ce3971136b225/5421373a-3d3f-4622-99cb-1c04534d0a63_rw_1920.jpg?h=c5f4a3617617fd1bde09fe23eb1f761c");
   background-size: cover;
 }
 
